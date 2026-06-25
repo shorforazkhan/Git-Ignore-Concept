@@ -1,9 +1,9 @@
 # Python Code
 
-first_value = 33
-second_value = 30
+f_value = 33
+s_value = 30
 
-if first_value > second_value:
-    print(f"The larger value is {first_value}.")
+if f_value > s_value:
+    print(f"The larger value is {f_value}.")
 else:
-    print(f"The larger value is {second_value}.")
+    print(f"The larger value is {s_value}.")
